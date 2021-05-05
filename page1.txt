@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>First page</h1>
+<p>I'm hosted with GitHub Pages.</p>
+</body>
+
+<body>
+<h2>First page</h2>
+<p>I'm hosted with GitHub Pages.</p>
+</body>
+</html>
